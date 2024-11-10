@@ -6,15 +6,18 @@
             "options": [
                 {
                     "image": "/images/movie_1.png",
-                    "alt": "Gray Man"
+                    "alt": "Gray Man",
+                    "nextQuestion": 2
                 },
                 {
                     "image": "/images/movie_2.png",
-                    "alt": "Blonde"
+                    "alt": "Blonde",
+                    "nextQuestion": 2
                 },
                 {
                     "image": "/images/movie_3.png",
-                    "alt": "Minions"
+                    "alt": "Minions",
+                    "nextQuestion": 2
                 }
             ]
         },
@@ -24,15 +27,18 @@
             "options": [
                 {
                     "image": "/images/movie_4.png",
-                    "alt": "Top Gun"
+                    "alt": "Top Gun",
+                    "nextQuestion": 3
                 },
                 {
                     "image": "/images/movie_5.png",
-                    "alt": "Bullet Train"
+                    "alt": "Bullet Train",
+                    "nextQuestion": 3
                 },
                 {
                     "image": "/images/movie_6.png",
-                    "alt": "Thor: Love and Thunder"
+                    "alt": "Thor: Love and Thunder",
+                    "nextQuestion": 3
                 }
             ]
         },
@@ -42,15 +48,18 @@
             "options": [
                 {
                     "image": "/images/movie_7.png",
-                    "alt": "Batman"
+                    "alt": "Batman",
+                    "nextQuestion": 4
                 },
                 {
                     "image": "/images/movie_8.png",
-                    "alt": "Spiderman"
+                    "alt": "Spiderman",
+                    "nextQuestion": 4
                 },
                 {
                     "image": "/images/movie_9.png",
-                    "alt": "The Flash"
+                    "alt": "The Flash",
+                    "nextQuestion": 4
                 }
             ]
         }

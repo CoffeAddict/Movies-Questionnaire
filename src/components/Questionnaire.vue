@@ -31,7 +31,7 @@
                     <li
                         v-for="option in q.options"
                         :key="option.id"
-                        @click="currentQuestion++"
+                        @click="currentQuestion = option.nextQuestion"
                         class="relative hover:cursor-pointer rounded-[10px] overflow-hidden after:content-[''] after:absolute after:opacity-0 hover:after:opacity-100 after:top-0 after:left-0 after:w-[200px] after:h-[291px] after:rounded-[10px] after:transition-all after:duration-500 after:ease-in-out after:z-10 after:bg-gradient-to-b after:from-white/40 after:to-transparent">
                         <img
                             width="200"
