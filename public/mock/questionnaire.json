@@ -1,0 +1,58 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Choose one of the three movies",
+            "options": [
+                {
+                    "image": "/images/movie_1.png",
+                    "alt": "Gray Man"
+                },
+                {
+                    "image": "/images/movie_2.png",
+                    "alt": "Blonde"
+                },
+                {
+                    "image": "/images/movie_3.png",
+                    "alt": "Minions"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Which one do you like the most?",
+            "options": [
+                {
+                    "image": "/images/movie_4.png",
+                    "alt": "Top Gun"
+                },
+                {
+                    "image": "/images/movie_5.png",
+                    "alt": "Bullet Train"
+                },
+                {
+                    "image": "/images/movie_6.png",
+                    "alt": "Thor: Love and Thunder"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Which one do you want to watch now?",
+            "options": [
+                {
+                    "image": "/images/movie_7.png",
+                    "alt": "Batman"
+                },
+                {
+                    "image": "/images/movie_8.png",
+                    "alt": "Spiderman"
+                },
+                {
+                    "image": "/images/movie_9.png",
+                    "alt": "The Flash"
+                }
+            ]
+        }
+    ]
+}
