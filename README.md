@@ -6,7 +6,7 @@ A Vue 3 application that displays a list of questions related to movies and resp
 
 #### Demo
 
-A live demo is available at [arodriguez-movies-questionnaire.vercel.app](www.arodriguez-movies-questionnaire.vercel.app)
+A live demo is available at [arodriguez-movies-questionnaire.vercel.app](https://arodriguez-movies-questionnaire.vercel.app)
 
 
 ##### Features
